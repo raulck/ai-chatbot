@@ -1,3 +1,9 @@
+# A simple React-based chatbot app that simulates basic AI interactions using React components. Built for learning and experimenting with front-end development and conversational UIs.
+
+## get api key for gemini flash 1.5 from here: https://ai.google.dev/gemini-api/docs/api-key
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
