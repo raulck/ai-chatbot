@@ -1,5 +1,5 @@
 ## Simple React-based chatbot app
-### Simulates basic AI interactions using React components. Built for learning and experimenting with front-end development and conversational UIs.
+Simulates basic AI interactions using React components. Built for learning and experimenting with front-end development and conversational UIs.
 
 ### Get api key for gemini flash 1.5 from here: https://ai.google.dev/gemini-api/docs/api-key
 
